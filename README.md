@@ -1,9 +1,21 @@
 # Hi! I'm Leandro Zulian 👋🏻  <img src="https://github.com/user-attachments/assets/815af08e-f019-4d78-aa42-4d76ab4d7231" style="width: 20px; height: 20px;" alt="Descrição da Imagem">
-## 🚀 About me
-- 🔭 I’m currently working on Senior FullStack Developer 
+## 🚀 About me 
+
+- 🔭 I’m currently working on Senior FullStack Developer  
 - 🌱 I'm currently studying a Postgraduate Degree in Software Engineering. 
 - 😄 Pronouns: He/Him
- 
+ ## 👨🏻‍💻 Technologies in my daily life
+ <div style="display:inline_block"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40em" width="40em"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  height="60em" width="60em" style="margin-top:50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40em" width="40em" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40em" width="40em" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40em" width="40em" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40em" width="40em" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" height="40em" width="40em" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40em" width="40em" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40em" width="40em" />
+</div>
  ## 📫 How to reach me
 <div>     
   <a href = "mailto:leandrozulian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
