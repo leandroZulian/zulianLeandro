@@ -1,6 +1,8 @@
 # Hi! I'm Leandro Zulian 👋🏻  <img src="https://github.com/user-attachments/assets/815af08e-f019-4d78-aa42-4d76ab4d7231" style="width: 20px; height: 20px;" alt="Descrição da Imagem">
 ## 🚀 About me 
-
+<div style="height:100px; width:800px; border:1px solid black;">
+    teste
+</div>
 - 🔭 I’m currently working on Senior FullStack Developer  
 - 🌱 I'm currently studying a Postgraduate Degree in Software Engineering. 
 - 😄 Pronouns: He/Him
