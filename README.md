@@ -1,25 +1,27 @@
-# Hi! I'm Leandro Zulian 👋🏻  <img src="https://github.com/user-attachments/assets/815af08e-f019-4d78-aa42-4d76ab4d7231" style="width: 20px; height: 20px;" alt="Descrição da Imagem">
-## 🚀 About me 
-<div style="height:100px; width:800px; border:1px solid black;">
-    teste
-</div>
+# Hi! I'm Leandro Zulian 👋🏻
+## 🚀 About me     
+
 - 🔭 I’m currently working on Senior FullStack Developer  
 - 🌱 I'm currently studying a Postgraduate Degree in Software Engineering. 
-- 😄 Pronouns: He/Him
- ## 👨🏻‍💻 Technologies in my daily life
- <div style="display:inline_block"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40em" width="40em"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  height="60em" width="60em" style="margin-top:50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40em" width="40em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40em" width="40em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40em" width="40em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40em" width="40em" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" height="40em" width="40em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40em" width="40em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40em" width="40em" />
-</div>
+- 😄 Pronouns: He/Him  
+
+ 
+| 👨🏻‍💻 Technologies in my daily life  |
+|--|
+<div style="display:inline_block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="35em" width="35em"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="35em" width="35em" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="35em" width="35em" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="35em" width="35em" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="35em" width="35em" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" height="35em" width="35em" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  height="35em" width="35em" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="35em" width="35em" />
+ </div> 
+
+ 
  ## 📫 How to reach me
-<div>     
+ <div style="display:inline_block">
   <a href = "mailto:leandrozulian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leandrozulian" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
@@ -53,12 +55,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=16&theme=transparent" height="180em" width="180em"/>
 </div>
-
-
 <!--
 **zulianLeandro/zulianLeandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Sites:
 Editor : https://readme.so/pt/editor
+         https://stackedit.io/app#
 Emoji : https://emojipedia.org/
 devIcon : https://devicon.dev/
 badget : https://dev.to/envoy_/150-badges-for-github-pnk
