@@ -33,30 +33,65 @@
 </div>
 
 ## 🛠 Skills
-<p> 
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
+<div style="display:inline_block"><br> 
+  <code><img width="80px" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" /></code>
+  <code><img width="80px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" /></code>
+  <code><img width="80px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" /></code>
+  <code><img width="80px" src="https://www.vectorlogo.zone/logos/jquery/jquery-official.svg" /></code>
+  <code><img width="80px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" /></code>
+  <code><img width="80px" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" /></code>
+  <code><img width="80px" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" /></code>	
+  <code><img width="80px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" /></code>
+  <code><img width="80px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" /></code>
+  <code><img width="80px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" /></code>      
+   <code><img width="80px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" /></code> 
+   <code><img width="80px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" /></code>
+   <code><img width="80px" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" /></code> 
+   <code><img width="80px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" /></code>
+   <code><img width="80px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" /></code>
+   <code><img width="80px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" /></code>
+   <code><img width="80px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" /></code>
+   <code><img width="80px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" /></code>
+   <code><img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" /></code>
+    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"></code>
+   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" /></code>
+   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" /></code>
+   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+</div>
+
  
 
 
-<div style="display:inline_block"><br> 
+
+
+##  📊GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zulianLeandro&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+  
+<p  align="center">
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+
+NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
+<!--
+**zulianLeandro/zulianLeandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sites:
+Editor : https://readme.so/pt/editor
+         https://stackedit.io/app#
+Emoji : https://emojipedia.org/
+devIcon : https://devicon.dev/
+badget : https://dev.to/envoy_/150-badges-for-github-pnk
+logo : https://www.vectorlogo.zone/logos 
+estatisticas pro git : https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md 
+                       https://devinvestidor.com.br/como-customizar-o-github-com-o-readme-stats/
+exemplos : https://github.com/anuraghazra?tab=overview&from=2019-12-01&to=2019-12-31
+           https://github.com/rafaballerini
+           https://github.com/DennisHartrampf?tab=overview&from=2021-12-01&to=2021-12-31
+           https://github.com/Prince-Shivaram
+           https://github.com/techytushar
+
+
+           <div style="display:inline_block"><br> 
   <img align="center" alt="lzm" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">           
   <img align="center" alt="lzm" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">        
   <img align="center" alt="lzm" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">     
@@ -77,32 +112,6 @@
   <img align="center" alt="lzm" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">   
   <img align="center" alt="lzm" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">    
 </div>
-
-##  📊GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zulianLeandro&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-  
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
-
-NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
-<!--
-**zulianLeandro/zulianLeandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Sites:
-Editor : https://readme.so/pt/editor
-         https://stackedit.io/app#
-Emoji : https://emojipedia.org/
-devIcon : https://devicon.dev/
-badget : https://dev.to/envoy_/150-badges-for-github-pnk
-logos : https://www.vectorlogo.zone/?q=
-estatisticas pro git : https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md 
-                       https://devinvestidor.com.br/como-customizar-o-github-com-o-readme-stats/
-exemplos : https://github.com/anuraghazra?tab=overview&from=2019-12-01&to=2019-12-31
-           https://github.com/rafaballerini
-           https://github.com/DennisHartrampf?tab=overview&from=2021-12-01&to=2021-12-31
-           https://github.com/Prince-Shivaram
-           https://github.com/techytushar
 -->
 
 
