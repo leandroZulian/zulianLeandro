@@ -12,7 +12,7 @@
 <tr>
 <td>
 <div style="display:inline_block" align="left" width="100%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="35em" width="35em"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" height="35em" width="35em"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="35em" width="35em" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="35em" width="35em" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="35em" width="35em" />
@@ -33,6 +33,29 @@
 </div>
 
 ## 🛠 Skills
+<p> 
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+</p>
+ 
+
+
 <div style="display:inline_block"><br> 
   <img align="center" alt="lzm" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">           
   <img align="center" alt="lzm" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">        
@@ -56,8 +79,14 @@
 </div>
 
 ##  📊GitHub Stats
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zulianLeandro&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+  
+<p  align="center">
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+
+NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 <!--
 **zulianLeandro/zulianLeandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Sites:
@@ -66,9 +95,14 @@ Editor : https://readme.so/pt/editor
 Emoji : https://emojipedia.org/
 devIcon : https://devicon.dev/
 badget : https://dev.to/envoy_/150-badges-for-github-pnk
+logos : https://www.vectorlogo.zone/?q=
 estatisticas pro git : https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md 
                        https://devinvestidor.com.br/como-customizar-o-github-com-o-readme-stats/
-                       
+exemplos : https://github.com/anuraghazra?tab=overview&from=2019-12-01&to=2019-12-31
+           https://github.com/rafaballerini
+           https://github.com/DennisHartrampf?tab=overview&from=2021-12-01&to=2021-12-31
+           https://github.com/Prince-Shivaram
+           https://github.com/techytushar
 -->
 
 
