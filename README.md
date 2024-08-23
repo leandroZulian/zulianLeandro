@@ -20,6 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" height="35em" width="35em" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  height="35em" width="35em" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="35em" width="35em" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="40em" width="40em"  />
 </div> 
 </td> 
 </tr>
@@ -33,33 +34,35 @@
 </div>
 
 ## 🛠 Skills
-<div style="display:inline_block"><br> 
-  <code><img width="80px" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" /></code>
-  <code><img width="80px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" /></code>
-  <code><img width="80px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" /></code>
-  <code><img width="80px" src="https://www.vectorlogo.zone/logos/jquery/jquery-official.svg" /></code>
-  <code><img width="80px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" /></code>
-  <code><img width="80px" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" /></code>
-  <code><img width="80px" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" /></code>	
-  <code><img width="80px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" /></code>
-  <code><img width="80px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" /></code>
-  <code><img width="80px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" /></code>      
-   <code><img width="80px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" /></code> 
-   <code><img width="80px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" /></code>
-   <code><img width="80px" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" /></code> 
-   <code><img width="80px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" /></code>
-   <code><img width="80px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" /></code>
-   <code><img width="80px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" /></code>
-   <code><img width="80px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" /></code>
-   <code><img width="80px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" /></code>
-   <code><img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" /></code>
-    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"></code>
-   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" /></code>
-   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" /></code>
-   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
-</div>
-
  
+<code><img width="80px" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" /></code>
+<code><img width="80px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" /></code>
+<code><img width="80px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" /></code>
+<code><img width="80px" src="https://www.vectorlogo.zone/logos/jquery/jquery-official.svg" /></code>
+<code><img width="80px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" /></code>
+<code><img width="80px" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" /></code>
+<code><img width="80px" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" /></code>	
+<code><img width="80px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" /></code>
+<code><img width="80px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" /></code>
+<code><img width="80px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" /></code>      
+<br />
+<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"></code>
+<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" /></code>
+<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" /></code>
+<code><img width="80px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" /></code> 
+<code><img width="80px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" /></code>
+<code><img width="80px" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" /></code> 
+<code><img width="80px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"/></code>
+<code><img width="120px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" /></code>
+<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" /></code>
+<code><img width="80px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" /></code>
+<code><img width="80px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" /></code>
+<code><img width="80px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" /></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" /></code>
+
+
+
+
 
 
 
