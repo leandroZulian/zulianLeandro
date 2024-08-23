@@ -56,11 +56,8 @@
 </div>
 
 ##  📊GitHub Stats
-<div>
-  <a href="https://github.com/zulianLeandro">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=16&theme=transparent" height="180em" width="180em"/>
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zulianLeandro&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 <!--
 **zulianLeandro/zulianLeandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Sites:
@@ -71,6 +68,7 @@ devIcon : https://devicon.dev/
 badget : https://dev.to/envoy_/150-badges-for-github-pnk
 estatisticas pro git : https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md 
                        https://devinvestidor.com.br/como-customizar-o-github-com-o-readme-stats/
+                       
 -->
 
 
